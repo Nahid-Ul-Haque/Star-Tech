@@ -1,6 +1,6 @@
 # Project name and live site link
 
-Star-TEch client side live link [Wivo](https://wivo-4bda2.web.app/).
+Star-TEch client side live link [Star-TEch](https://star-tech-client.netlify.app/).
 
 # Functionalities and used cases of the website
 
@@ -10,7 +10,7 @@ Star-TEch client side live link [Wivo](https://wivo-4bda2.web.app/).
 
 - The authentication system is from firebase authentication system
 
-- A normal user 2ill see options like Navbar , Banner , Products (water bottles), user,s review , contact form and a Footer .
+- A normal user 2ill see options like Navbar , Banner , Products (Phones), user,s review , contact form and a Footer .
 
 - In the navbar A normal user will see options like home , explore and login . If the user is logged in then instead of log in he/she will see Dashboard , username and logout button .
 
